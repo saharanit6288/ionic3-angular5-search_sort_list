@@ -2,5 +2,7 @@
   "name": "ionic3-angular5-search_sort_list",
   "app_id": "",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
